@@ -75,11 +75,13 @@ type reviews.txt | python infer_bert.py   # Windows
 cat reviews.txt | python infer_bert.py    # Linux/Mac
 ```
 Output (example):
+```
 #1: This movie was surprisingly good and fun!
   POSITIVE: 98.34%
 
 #2: Terrible acting and a boring plot.
   NEGATIVE: 96.12%
+```
 
 ## 4. Repo structure
 ```
