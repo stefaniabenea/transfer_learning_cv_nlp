@@ -35,12 +35,12 @@ Expected outputs:
 python infer_resnet.py --image /path/to/your/image.jpg
 ```
 Output (example):
-
+```
 Predictions:
 cat (74.12%)
 dog (20.31%)
 frog (3.56%)
-
+```
 ## 3. NLP - DistilBERT on IMDb (Binary Sentiment)
 
 ### Training & Evaluation
