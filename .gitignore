@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+.env
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & outputs
+data/
+outputs/
+runs/
+logs/
+
+# Checkpoints & model folders
+*.pth
+*.pt
+*.bin
+*.ckpt
+distilbert_imdb_best/
